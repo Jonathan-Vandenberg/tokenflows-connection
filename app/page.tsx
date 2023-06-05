@@ -8,7 +8,7 @@ import RPC from "./web3RPC"; // for using web3.js
 import { EthereumPrivateKeyProvider } from "@web3auth/ethereum-provider";
 // EVM
 import Web3 from "web3";
-// Solana
+//  Solana
 import {
   SolanaPrivateKeyProvider,
   SolanaWallet,
